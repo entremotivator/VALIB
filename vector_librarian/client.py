@@ -1,4 +1,4 @@
-
+import weaviate
 from hamilton import driver
 from streamlit.runtime.uploaded_file_manager import UploadedFile
 
