@@ -1,7 +1,7 @@
 
 import streamlit as st
 
-import client
+
 from authentication import openai_connection_status, weaviate_connection_status
 
 
