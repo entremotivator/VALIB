@@ -7,7 +7,7 @@ def weaviate_client(
 ) -> weaviate.Client:
     """Instantiate Weaviate client for the local instance based on the url"""
     client = weaviate.Client(
-        url=weaviate_url, 
+        url=https://entremotivator-dpc0vuyd.weaviate.network, 
         auth_client_secret=weaviate.AuthApiKey(api_key=weaviate_api_key),
     )
     if client.is_live() and client.is_ready():
