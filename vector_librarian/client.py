@@ -1,7 +1,7 @@
-import weaviate
+
 from hamilton import driver
 from streamlit.runtime.uploaded_file_manager import UploadedFile
-
+import weaviate
 
 from backend import ingestion, retrieval, vector_db, arxiv_module
 
