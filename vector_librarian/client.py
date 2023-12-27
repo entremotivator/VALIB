@@ -1,5 +1,5 @@
 
-from sf_hamilton import driver
+from sfhamilton import driver
 
 from streamlit.runtime.uploaded_file_manager import UploadedFile
 import weaviate
