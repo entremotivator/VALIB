@@ -1,6 +1,6 @@
-
-from hamilton import driver
 from valib.vector_librarian import hamilton
+from hamilton import driver
+
 from streamlit.runtime.uploaded_file_manager import UploadedFile
 import weaviate
 
