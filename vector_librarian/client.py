@@ -1,6 +1,6 @@
-import weaviate
+import pandas
 from hamilton import driver
-
+import weaviate
 from streamlit.runtime.uploaded_file_manager import UploadedFile
 
 
