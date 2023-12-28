@@ -1,10 +1,10 @@
 import sys
 import logging
 import importlib
-
+import weaviate
 import pandas as pd
 from hamilton import driver
-import weaviate
+
 from streamlit.runtime.uploaded_file_manager import UploadedFile
 
 
