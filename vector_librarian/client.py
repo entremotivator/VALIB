@@ -3,7 +3,7 @@ import logging
 import importlib
 import weaviate
 import pandas as pd
-from hamilton import driver
+
 
 from streamlit.runtime.uploaded_file_manager import UploadedFile
 
