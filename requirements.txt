@@ -51,6 +51,7 @@ requests==2.31.0 ; python_version >= "3.10" and python_version < "4.0"
 rich==13.5.2 ; python_version >= "3.10" and python_version < "4.0"
 rpds-py==0.10.2 ; python_version >= "3.10" and python_version < "4.0"
 sf-hamilton
+hamilton
 sgmllib3k==1.0.0 ; python_version >= "3.10" and python_version < "4.0"
 six==1.16.0 ; python_version >= "3.10" and python_version < "4.0"
 smmap==5.0.0 ; python_version >= "3.10" and python_version < "4.0"
