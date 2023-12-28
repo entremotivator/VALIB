@@ -1,7 +1,7 @@
 import sys
 import logging
 import importlib
-import weaviate
+
 import pandas as pd
 
 
